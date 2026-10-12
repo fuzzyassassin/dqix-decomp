@@ -42,3 +42,8 @@ src/Combat/Overlay_30/ReleaseBuffers_021d92f0.cpp:
 src/Combat/Overlay_30/func_ov030_021d9340.cpp:
     complete
     .text start:0x021d9340 end:0x021d9c5c
+
+
+src/Combat/Overlay_30/func_ov030_021d8a40.cpp:
+    complete
+    .text start:0x021d8a40 end:0x021d9250
