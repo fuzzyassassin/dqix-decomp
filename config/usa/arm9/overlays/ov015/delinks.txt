@@ -431,3 +431,13 @@ src/Combat/Overlay_15/func_ov015_0218e670.cpp:
 src/Combat/Overlay_15/0218f794.cpp:
     complete
     .text start:0x0218f794 end:0x0218ff7c
+
+
+src/Combat/Overlay_15/func_ov015_0218d50c.cpp:
+    complete
+    .text start:0x0218d50c end:0x0218dbec
+
+
+src/Combat/Overlay_15/func_ov015_021934f8.cpp:
+    complete
+    .text start:0x021934f8 end:0x02193cd0
