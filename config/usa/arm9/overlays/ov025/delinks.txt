@@ -1268,3 +1268,13 @@ src/Combat/Overlay_25/func_ov025_021ecc54.cpp:
 src/Combat/Overlay_25/func_ov025_021dc940.cpp:
     complete
     .text start:0x021dc940 end:0x021dcc58
+
+
+src/Combat/Overlay_25/func_ov025_021dbe10.cpp:
+    complete
+    .text start:0x021dbe10 end:0x021dc0d8
+
+
+src/Combat/Overlay_25/func_ov025_021def64.cpp:
+    complete
+    .text start:0x021def64 end:0x021df554
