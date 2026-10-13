@@ -4122,3 +4122,8 @@ src/Combat/Overlay_23/func_ov023_021df218.cpp:
 src/Combat/Overlay_23/func_ov023_021e540c.cpp:
     complete
     .text start:0x021e540c end:0x021e5628
+
+
+src/Combat/Overlay_23/func_ov023_021da274.cpp:
+    complete
+    .text start:0x021da274 end:0x021da770
