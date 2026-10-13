@@ -19822,3 +19822,8 @@ src/Combat/Main/SelectWeightedEntry02073fdc.cpp:
 src/Combat/Main/func_020adda4.cpp:
     complete
     .text start:0x020adda4 end:0x020adfa8
+
+
+src/Combat/Main/func_02067fec.cpp:
+    complete
+    .text start:0x02067fec end:0x020680cc
