@@ -520,3 +520,8 @@ src/Combat/Overlay_6/func_ov006_0215f4dc.cpp:
     complete
     .text start:0x0215f4dc end:0x0215f740
 
+
+
+src/Combat/Overlay_6/func_ov006_0215c154.cpp:
+    complete
+    .text start:0x0215c154 end:0x0215c680
