@@ -95,6 +95,10 @@ src/Combat/Main/AutoloadCallback.cpp:
     complete
     .text start:0x02000aac end:0x02000ab0
 
+src/Combat/Main/InitCp15_02000ab0.cpp:
+    complete
+    .text start:0x02000ab0 end:0x02000b98
+
 src/Combat/Main/BlankFunction02000b98.cpp:
     complete
     .text start:0x02000b98 end:0x02000b9c
