@@ -23,7 +23,7 @@ struct Code021dc93c {unsigned int code:12;unsigned int rest:20;};
 struct Triple021dc93c {unsigned int a:10;unsigned int b:10;unsigned int c:10;unsigned int rest:2;};
 struct Params021dc93c {char pad[4];Code021dc93c field4;char pad8[0x1c];Triple021dc93c field24;char pad28[8];short count;};
 struct Stats021dc93c {char pad[0x24];unsigned char stage;};
-static inline void* GetCtx(Obj021dc93c* o){ void* ctx=o->context; return ctx; }
+static inline void* GetCtx(Obj021dc93c* o){ SDK_NULL_ASSERT(o); return o->context; }
 static inline int IsPartyIndex(int id){ return id>=0 && id<=3; }
 // USA: func_ov024_021dc93c
 extern "C" ARM void* func_ov024_021dc93c(Obj021dc93c* obj,short sourceID,int id,Params021dc93c* params,int amount,int unused,unsigned char enabled){

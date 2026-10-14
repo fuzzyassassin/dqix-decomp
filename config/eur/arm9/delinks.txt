@@ -19927,3 +19927,27 @@ src/Combat/Main/func_02029988.cpp:
 src/Combat/Main/func_020733d8.cpp:
     complete
     .text start:0x020733e8 end:0x02073d60
+
+src/Combat/Main/func_020e5920.cpp:
+    complete
+    .init start:0x020e5930 end:0x020e59d8
+
+src/Combat/Main/InitCp15_02000ab0.cpp:
+    complete
+    .text start:0x02000ab0 end:0x02000b98
+
+src/Combat/Main/func_02025f28_02025f28.cpp:
+    complete
+    .text start:0x02025f38 end:0x0202631c
+
+src/World/WarpScriptOpcode7c.cpp:
+    complete
+    .text start:0x0201e028 end:0x0201e1e0
+
+src/Combat/Main/func_0209a218.cpp:
+    complete
+    .text start:0x0209a228 end:0x0209a348
+
+src/World/WarpScriptOpcode6b.cpp:
+    complete
+    .text start:0x0201d054 end:0x0201d434

@@ -1,12 +1,6 @@
 #include <globaldefs.h>
 
 // USA: func_02000ab0  (semantic: NitroSDK crt0 CP15 / protection-unit setup)
-//
-// PROVENANCE: called from the crt0 entry (Entry, 0x02000800) before main. It disables the
-// protection unit and caches, flushes them, programs the eight MPU regions (c6), the DTCM
-// and ITCM windows (c9), the cache/write-buffer and access-permission bits (c2, c3, c5),
-// then re-enables the unit. Every step is a coprocessor `mrc`/`mcr p15` access, which C
-// cannot express; the NitroSDK writes this routine as an `asm` function, as here.
 
 extern "C" char data_027e0021[];
 extern "C" char data_027e0000[];

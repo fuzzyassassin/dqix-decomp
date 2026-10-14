@@ -19954,11 +19954,28 @@ src/Combat/Main/func_02029988.cpp:
     complete
     .text start:0x02029988 end:0x0202a678
 
+src/Combat/Main/func_02025f28_02025f28.cpp:
+    complete
+    .text start:0x02025f28 end:0x0202630c
 
 src/Combat/Main/func_020733d8.cpp:
     complete
     .text start:0x020733d8 end:0x02073d50
 
-src/Combat/Main/func_02025f28_02025f28.cpp:
+
+src/Combat/Main/func_020e5920.cpp:
     complete
-    .text start:0x02025f28 end:0x0202630c
+    .init start:0x020e5920 end:0x020e59c8
+
+src/World/WarpScriptOpcode7c.cpp:
+    complete
+    .text start:0x0201e018 end:0x0201e1d0
+
+
+src/Combat/Main/func_0209a218.cpp:
+    complete
+    .text start:0x0209a218 end:0x0209a338
+
+src/World/WarpScriptOpcode6b.cpp:
+    complete
+    .text start:0x0201d044 end:0x0201d424

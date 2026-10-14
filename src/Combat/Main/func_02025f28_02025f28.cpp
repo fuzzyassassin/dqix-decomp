@@ -1,7 +1,6 @@
 #include <globaldefs.h>
 #include "GameState/GameState.h"
 
-
 extern "C" void* func_0205ec34(void);
 void* GetData02105254(void);
 extern "C" void* func_02012fe4(void);
@@ -47,7 +46,7 @@ extern "C" ARM void func_02025f28(unsigned char* obj) {
     void* g = func_02012fe4();
     unsigned short g0 = *(unsigned short*)g;
     GameObject* c1;
-    int i;      // loop index, then reused as the "position valid" flag
+    int i;
     int flag2;
     void* g8 = *(void**)((char*)g + 8);
     c1 = battle->GetUnknownGameObject();

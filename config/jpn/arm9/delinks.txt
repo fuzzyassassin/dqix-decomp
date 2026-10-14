@@ -18326,3 +18326,11 @@ src/Combat/Main/func_0205ec70.cpp:
 src/Combat/Main/func_0203b97c.cpp:
     complete
     .text start:0x0203b3d4 end:0x0203b4cc
+
+src/Combat/Main/InitCp15_02000ab0.cpp:
+    complete
+    .text start:0x02000ab0 end:0x02000b98
+
+src/World/WarpScriptOpcode6b.cpp:
+    complete
+    .text start:0x0201cdd0 end:0x0201d1b0
